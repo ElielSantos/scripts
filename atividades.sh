@@ -1,4 +1,6 @@
 #!/bin/bash
+#sudo nano /etc/profile.d/atividades.sh
+#sudo chmod +x /etc/profile.d/atividades.sh
 
 # Obtém o nome do usuário atual do Linux
 USUARIO=$(whoami)
