@@ -18,7 +18,7 @@ rm packages.microsoft.gpg
 # Instalar Terminator
 sudo apt-get install terminator
 
-# Instalar o visualizados htop
+# Instalar o visualizador htop
 sudo apt install htop
 
 # Instalar GIMP
@@ -32,6 +32,9 @@ sudo apt-get install wine
 wget https://s3.amazonaws.com/cdn.photoscape.org/psa-full.exe
 wine psa-full.exe
 rm psa-full.exe
+
+# Instalar o qbtorrent
+sudo apt install qbittorrent
 
 # Instalar CPU-X
 sudo apt-get install cpu-x
