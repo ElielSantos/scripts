@@ -2,6 +2,13 @@
 #sudo nano /etc/profile.d/atividades.sh
 #sudo chmod +x /etc/profile.d/atividades.sh
 
+############################################################# 
+# Copyright (c) 2024, Eliel Santos <santoscyberx@gmail.com> #
+#                                                           #
+# Este script é de código aberto e seu uso é liberado       #
+# All rights reserved.                                      #
+#############################################################
+
 # Obtém o nome do usuário atual do Linux
 USUARIO=$(whoami)
 
