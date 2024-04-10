@@ -1,11 +1,10 @@
 #!/bin/bash
-############################################################
-# Copyright (c) 2024                                       #  
-# 2024 · ELIEL SANTOS DE JESUS · santoscyberx@gmail.com    #
-#                                                          #
-# Este script é de código aberto e seu uso é liberado      #
-# All rights reserved.                                     #
-############################################################
+############################################################# 
+# Copyright (c) 2024, Eliel Santos <santoscyberx@gmail.com> #
+#                                                           #
+# Este script é de código aberto e seu uso é liberado       #
+# All rights reserved.                                      #
+#############################################################
 
 # pode ser rodado direto no terminal
 # -y Aceita Sim para todos os comandos $sudo
