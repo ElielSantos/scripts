@@ -1,4 +1,10 @@
 #!/bin/bash
+############################################################# 
+# Copyright (c) 2024, Eliel Santos <santoscyberx@gmail.com> #
+#                                                           #
+# Este script é de código aberto e seu uso é liberado       #
+# All rights reserved.                                      #
+#############################################################
 
 mostrar_menu() {
   echo "Escolha uma opção:"
