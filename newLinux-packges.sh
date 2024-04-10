@@ -18,8 +18,14 @@ rm packages.microsoft.gpg
 # Instalar Terminator
 sudo apt-get install terminator
 
+# Instalar o visualizados htop
+sudo apt install htop
+
 # Instalar GIMP
 sudo apt-get install gimp
+
+# Instalar VLC
+sudo apt install vlc
 
 # Instalar Photoscape via Wine
 sudo apt-get install wine
