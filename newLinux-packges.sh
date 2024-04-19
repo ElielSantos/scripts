@@ -30,9 +30,6 @@ sudo apt-get install terminator -y
 # Instalar o visualizador htop
 sudo apt install htop -y
 
-# Instalar GIMP
-sudo apt-get install gimp -y
-
 # Instalar VLC
 sudo apt install vlc -y
 
@@ -41,9 +38,6 @@ sudo apt-get install wine -y
 wget https://s3.amazonaws.com/cdn.photoscape.org/psa-full.exe
 wine psa-full.exe
 rm psa-full.exe
-
-# Instalar o qbtorrent
-sudo apt install qbittorrent -y
 
 # Instalar CPU-X
 sudo apt-get install cpu-x -y
